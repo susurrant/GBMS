@@ -11,3 +11,16 @@ F:\Programming\Visual Studio 2013\Projects\Geosoft Book Management System\Geosof
 F:\Programming\Visual Studio 2013\Projects\Geosoft Book Management System\Geosoft Book Management System\obj\Debug\Geosoft_Book_Management_System.bookModify.resources
 F:\Programming\Visual Studio 2013\Projects\Geosoft Book Management System\Geosoft Book Management System\obj\Debug\Geosoft_Book_Management_System.GBMS.resources
 F:\Programming\Visual Studio 2013\Projects\Geosoft Book Management System\Geosoft Book Management System\obj\Debug\Geosoft_Book_Management_System.bookMD.resources
+W:\Github\GBMS\Geosoft Book Management System\bin\Debug\Geosoft Book Management System.exe.config
+W:\Github\GBMS\Geosoft Book Management System\bin\Debug\Geosoft Book Management System.exe
+W:\Github\GBMS\Geosoft Book Management System\bin\Debug\Geosoft Book Management System.pdb
+W:\Github\GBMS\Geosoft Book Management System\bin\Debug\Npgsql.dll
+W:\Github\GBMS\Geosoft Book Management System\bin\Debug\Npgsql.xml
+W:\Github\GBMS\Geosoft Book Management System\obj\Debug\Geosoft Book Management System.csprojResolveAssemblyReference.cache
+W:\Github\GBMS\Geosoft Book Management System\obj\Debug\Geosoft_Book_Management_System.bookMD.resources
+W:\Github\GBMS\Geosoft Book Management System\obj\Debug\Geosoft_Book_Management_System.bookModify.resources
+W:\Github\GBMS\Geosoft Book Management System\obj\Debug\Geosoft_Book_Management_System.GBMS.resources
+W:\Github\GBMS\Geosoft Book Management System\obj\Debug\Geosoft_Book_Management_System.Properties.Resources.resources
+W:\Github\GBMS\Geosoft Book Management System\obj\Debug\Geosoft Book Management System.csproj.GenerateResource.Cache
+W:\Github\GBMS\Geosoft Book Management System\obj\Debug\Geosoft Book Management System.exe
+W:\Github\GBMS\Geosoft Book Management System\obj\Debug\Geosoft Book Management System.pdb
